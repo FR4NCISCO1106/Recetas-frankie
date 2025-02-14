@@ -1,0 +1,66 @@
+body{
+  background-color: rgba(0, 0, 0, 0.24);
+
+}
+
+  h1{
+    text-align: center;
+    
+  }
+
+  .box3{
+
+    height: auto;
+    width: 50;
+    background-color: aquamarine;
+    border-radius: 0.8rem;
+  }
+
+  .box69{
+
+    padding: 40px;
+
+
+  }
+
+  .box1{
+
+    height: auto;
+    width: 600px;
+    background-color: blanchedalmond;
+    border: solid 5px;
+    border-radius: 0.8rem;
+    text-align: left;
+    padding: 40px;
+  }
+
+h2{
+font-size: medium;
+
+}
+
+.box{
+height: auto;
+width: 250px;
+background-color: rgba(0, 255, 128, 0.63);
+border: solid 5px;
+border-radius: 0.8rem;
+text-align:center;
+}
+
+
+button :hover{
+  background-color: rgb(243, 243, 243);
+  font-size: x-large;
+  color: rgb(115, 192, 0);
+}
+
+p{
+  font-family:Georgia, Times, 'Times New Roman', serif
+}
+
+
+li{
+  font-family:Tahoma, sans-serif;
+
+}
